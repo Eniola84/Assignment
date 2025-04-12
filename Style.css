@@ -1,0 +1,89 @@
+body{
+    margin: 0%;
+}
+
+.navbar{
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.menuBar{
+    display: none;
+}
+.nav1,.nav2{
+    padding: 5px;
+}
+.nav1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav2{
+    width: 22%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav2One{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-right: 1px solid gray;
+    padding right: 15px;
+    width: 30%;
+    height: 100%;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+span{
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.span2{
+    color:;
+}
+.footerContainer{
+    padding: 20px;
+}
+.footDiv{
+    border: 1px solid black; 
+    width: 20px;
+    height: auto;
+}
+.footDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+}
+.footDivh3{
+    margin-left: 14%;
+    font-size: 22px;
+}
+.li{
+    list-style: none;
+}
+.ul{
+    list-style: none;
+}
+.li{
+    padding: 0%;
+    margin-left: 0%;
+    font-size: 17px;
+    line-height: 17px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.copyrightDivsmall{
+    font-size: 15px;
+}
+
+.copyrightDiv{
+    background-color: black;
+    padding: 40px;
+    padding-left: 3%;
+    padding-right: 3%;
+}
